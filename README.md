@@ -64,7 +64,7 @@ This project demonstrates the practical use of **Data Structures**, **Object-Ori
 
 ## ▶️ How to Run the Project
 1. Clone the repository
-2. 2. Open the project in any C++ IDE
+2. Open the project in any C++ IDE
 3. Compile and run `main.cpp`
 4. Use the console menus to interact with the system
 
@@ -102,5 +102,5 @@ This project is developed for **academic purposes only**.
 
 
 
-## 📂 Project Structure
+
 
